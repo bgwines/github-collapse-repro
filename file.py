@@ -10,6 +10,7 @@ class C
         # f's body
         # f's body
         # f's body
+        # f's body (new line added)
         # f's body
         # f's body
         # f's body
@@ -35,6 +36,7 @@ class C
         # g's body
         # g's body
         # g's body
+        # g's body (new line added)
         # g's body
         # g's body
         # g's body
